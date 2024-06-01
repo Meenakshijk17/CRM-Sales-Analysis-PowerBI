@@ -3,7 +3,7 @@
 The CRM Sales Analysis Power BI dashboard is more than a collection of data visualizations; it's a narrative that can potentially guide users through the intricate landscape of sales performance. Each element of the dashboard is a chapter in the story of how the company is performing, providing insights that drive strategic decisions. Let's embark on this storytelling journey through the dashboard, revealing the insights hidden within the data.
 
 
-![Screenshot 2024-05-16 023308](https://github.com/Meenakshijk17/CRM-Sales-Analysis-PowerBI/assets/63089206/3396efc5-a8ef-4a1a-a41f-85b61579038b)
+![Screenshot 2024-05-16 023308](https://github.com/Meenakshijk17/CRM-Sales-Analysis-PowerBI/blob/main/CRM_Sales_Analysis_Dashboard.png)
 
 
 
